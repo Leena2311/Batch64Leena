@@ -1,2 +1,2 @@
 # Batch64ProjectApplication
-Demo of batch64
+Demo of Git
